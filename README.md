@@ -2,6 +2,8 @@
 
 A beautiful, responsive, and persistent chat application built with vanilla HTML, CSS, and JavaScript. Features a simulated AI bot ("Smart Bot"), glassmorphism UI design, and local storage integration.
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://deft-toffee-5241aa.netlify.app/)
+
 ## ✨ Features
 
 - **Premium UI Design**: Modern glassmorphism aesthetic with smooth animations and responsive layout.
